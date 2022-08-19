@@ -1,0 +1,7 @@
+flask
+gunicorn
+pandas
+numpy
+sklearn
+openpyxl
+flask_httpauth

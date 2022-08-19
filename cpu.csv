@@ -1,0 +1,194 @@
+0,Intel Core i9-10900K,1200
+1,Intel Core i9-10980XE,2066
+2,AMD Ryzen 9 5950X 16-Core Processor,AM4
+3,Intel Core i7-8086K,1151
+4,Intel Core i7-7800X,2066
+6,Intel Core i9-10900KF,1200
+9,AMD Ryzen 9 3900XT 12-Core Processor,AM4
+11,Intel Core i9-9900K,1151
+13,AMD Ryzen 9 3950X 16-Core Processor,AM4
+20,Intel Core i7-7700K,1151
+21,AMD Ryzen 7 3700X 8-Core Processor,AM4
+24,Intel Core i9-9900KS,1151
+26,Intel Core i9-9900KF,1151
+31,AMD Ryzen Threadripper 3960X 24-Core Processor,sTRX4
+38,Intel Core i9-7900X,2066
+42,AMD Ryzen 9 3900X 12-Core Processor,AM4
+43,Intel Core i9-10940X,2066
+50,AMD Ryzen 7 3800X 8-Core Processor,AM4
+53,Intel Core i9-7920X,2066
+55,Intel Core i9-10900,2066
+60,Intel Core i9-10850K,1200
+66,AMD Ryzen 7 5800X 8-Core Processor,AM4
+72,Intel Core i9-9940X,2066
+77,Intel Core i7-8700K,1151
+78,Intel Core i7-9700K,1151
+83,Intel Core i5-10600K,1200
+86,AMD Ryzen Threadripper 1920X 12-Core Processor,TR4
+89,Intel Core i9-9820X,2066
+93,AMD Ryzen 7 3800XT 8-Core Processor,AM4
+94,Intel Core i9-9980XE,2066
+96,AMD Ryzen 5 3600X 6-Core Processor,AM4
+97,Intel Core i7-7900X,2066
+100,Intel Core i7-6800K,2011-3
+103,Intel Core i5-9600K,1151
+122,Intel Core i5-4690K,1150
+130,Intel Core i7-7820X,2066
+135,Intel Core i7-6700K,1151
+141,Intel Core i7-10700K,1200
+153,AMD Ryzen Threadripper 3970X 32-Core Processor,sTRX4
+157,Intel Core i9-7980XE,2066
+161,Intel Core i9-7960X,2066
+163,AMD Ryzen 9 5900X 12-Core Processor,AM4
+166,AMD Ryzen 5 1600 Six-Core Processor,AM4
+173,Intel Core i9-9900,1151
+184,AMD Ryzen 5 5600X 6-Core Processor,AM4
+189,Intel Core i5-8600K,1151
+205,AMD Ryzen 7 1700 Eight-Core Processor,AM4
+219,Intel Core i9-7940X,2066
+222,Intel Core i7-5960X,2011-3
+252,AMD Ryzen Threadripper 2950X 16-Core Processor,TR4
+257,Intel Core i7-6850K,2011-3
+263,AMD Ryzen 7 2700X Eight-Core Processor,AM4
+272,Intel Core i5-7640X,2066
+273,AMD Ryzen 5 2600X Six-Core Processor,AM4
+291,AMD Ryzen 5 3600 6-Core Processor,AM4
+293,AMD Ryzen 7 1700X Eight-Core Processor,AM4
+327,Intel Core i7-3770K,1155
+330,AMD Ryzen 7 2700 Eight-Core Processor,AM4
+334,Intel Core i7-9800X,2066
+369,Intel Core i7-5820K,2011-3
+397,AMD Ryzen Threadripper 1950X 16-Core Processor,TR4
+408,Intel Xeon E5-2699 v4,2011-3
+470,AMD Ryzen Threadripper 2990WX 32-Core Processor,TR4
+495,Intel Core i7-10700,1200
+516,AMD Ryzen 7 1800X Eight-Core Processor,AM4
+525,Intel Pentium Gold G5400,1151
+532,Intel Core i7-4790K,1150
+537,Intel Core i7-5930K,2011-3
+594,AMD Ryzen 5 2600 Six-Core Processor,AM4
+609,AMD FX-9590 Eight-Core Processor,AM3+
+617,Intel Xeon E5-2687W 0,2011
+634,Intel Celeron G4920,1151
+635,AMD Ryzen 5 3500X 6-Core Processor,AM4
+640,Intel Core i7 X 990,1366
+646,Intel Core i7-6700,1151
+665,Intel Core i7-6950X,2011-3
+669,Intel Core i7-8700,1151
+671,Intel Core i7-3960X,2011
+708,Intel Core i5-6400,1151
+719,Intel Xeon E5-2637 v3,2011-3
+721,Intel Core i7-6900K,2011-3
+737,Intel Core i5-9400F,1151
+740,Intel Core i7-2600K,1155
+741,Intel Xeon E5-2697 v2,2011
+745,Intel Core i9-9900X,2066
+746,Intel Xeon W-3235,3647
+757,Intel Core i7-4770K,1150
+830,Intel Core i5-7600K,1151
+841,Intel Xeon W3690,1366
+855,AMD Ryzen 5 3600XT 6-Core Processor,AM4
+857,AMD Ryzen 7 1800X Eight Core Processor,AM4
+869,Intel Core i5-6600,1151
+872,Intel Core i7-3930K,2011
+893,Intel Core i5-6600K,1151
+912,Intel Core i5-3570K,1155
+920,Intel Xeon E5-1620 v4,2011-3
+921,Intel Core i7-7700,1151
+929,AMD FX-8350 Eight-Core Processor,AM3+
+934,Intel Core i7-7740X,2066
+948,Intel Core i5-7500,1151
+960,Intel Core i7-9700KF,1151
+964,Intel Xeon X5670,1366
+971,Intel Core i5 760,1156
+1015,Intel Xeon E5-2696 v3,2011-3
+1019,Intel Core i7-4930K,2011
+1038,Intel Xeon E3-1241 v3,1150
+1046,Intel Core i7-4820K,2011
+1049,Intel Core i7-5775C,1150
+1056,Intel Xeon E5-2697 v3,2011-3
+1066,Intel Xeon E5-1680 v2,2011
+1073,AMD Ryzen Threadripper 2970WX 24-Core Processor,TR4
+1080,Intel Xeon E5-2680 0,2011
+1093,Intel Core i7-4960X,2011
+1138,Intel Core i7-2700K,1155
+1141,Intel Core i3-8100,1151
+1149,AMD Ryzen 5 1600X Six-Core Processor,AM4
+1260,Intel Core i7-3770,1155
+1299,Intel Core i7-2600,1155
+1363,Intel Core i5-4670K,1150
+1396,Intel Core i7-3820,2011
+1440,Intel Core i5-2500K,1155
+1468,Intel Core i9-10920X,2066
+1504,Intel Core i7-4790,1150
+1506,Intel Core i7 X 980,1366
+1507,Intel Xeon E5-2667 v2,2011
+1544,Intel Core i7-4770,1150
+1573,Intel Xeon X5675,1366
+1659,AMD Ryzen Threadripper 2920X 12-Core Processor,TR4
+1692,Intel Core i7 920,1366
+1718,Intel Core i5-4690,1150
+1725,AMD Ryzen Threadripper 1900X 8-Core Processor,TR4
+1730,Intel Xeon E5-2667 v3,2011
+1841,Intel Core i5-6500,1151
+1876,Intel Core i5-8400,1151
+1900,Intel Xeon X5650,1366
+1931,Intel Xeon E5-1650 v3,2011-3
+2004,Intel Xeon E5-2696 v4,2011-3
+2031,Intel Core i5-4460,1150
+2035,Intel Core i5-3470,1155
+2108,Intel Core i7 975,1366
+2111,Intel Xeon W3680,1366
+2173,AMD FX-4300 Quad-Core Processor,AM3+
+2185,Intel Xeon E7-8880L v3,2011
+2214,Intel Core i7 970,1366
+2237,AMD FX-6300 Six-Core Processor,AM3+
+2250,Intel Xeon E3-1230 v3,1150
+2273,Intel Core i7-9700F,1151
+2276,AMD Ryzen 3 3100 4-Core Processor,AM4
+2279,Intel Xeon E5-2683 v3,2011-3
+2282,Intel Xeon X5690,1366
+2292,Intel Core i7-9700,1151
+2319,AMD Ryzen 3 1300X Quad-Core Processor,AM4
+2328,AMD Ryzen 5 1500X Quad-Core Processor,AM4
+2333,Intel Core i5-4590,1150
+2450,Intel Xeon E3-1245 v3,1150
+2469,Intel Core i3-8350K,1151
+2472,AMD Athlon X4 760K Quad Core Processor,FM2
+2494,Intel Core i5-7400,1151
+2508,AMD Phenom II X4 965 Processor,AM3
+2531,Intel Xeon E5-1660 v2,2011
+2558,AMD FX-8320 Eight-Core Processor,AM3+
+2606,Intel Xeon E31240,1155
+2683,Intel Core i7-3970X,2011
+2698,Intel Core i7 960,1366
+2719,AMD Ryzen 5 2400G with Radeon Vega Graphics,AM4
+2725,Intel Core i7 950,1366
+2734,Intel Core i5-7600,1151
+2746,Intel Core i7 930,1366
+2760,Intel Xeon E-2186G,1151
+2767,Intel Core i7 940,1366
+2783,Intel Core i5-9600KF,1151
+2802,AMD FX-8370 Eight-Core Processor,AM3+
+2803,Intel Xeon X3470,1156
+2809,Intel Core i5-4570,1150
+2824,Intel Core2 Quad Q9650,775
+2832,Intel Core i5-6600T,1151
+2857,Intel Xeon X5660,1366
+2877,Intel Xeon E5-1620 v2,2011
+2938,Intel Core i3-4170,1150
+2964,Intel Core i3-7100,1151
+2990,Intel Xeon E5-2678 v3,2011-3
+3005,AMD FX-9370 Eight-Core Processor,AM3+
+3025,AMD FX-8320E Eight-Core Processor,AM3+
+3029,Intel Core i5-4670,1150
+3041,AMD Ryzen 3 2200G with Radeon Vega Graphics,AM4
+3046,Intel Xeon E3-1535M v6,1151
+3053,Intel Core i7-4790S,1150
+3078,Intel Xeon X5680,1366
+3092,AMD FX-8300 Eight-Core Processor,AM3+
+3113,AMD Phenom II X4 960T Processor,AM3
+3121,Intel Celeron G3900,1151
+3149,Intel Core i5-3570,1155
+3154,Intel Core i3-4360,1150
+3171,Intel Core i5-3330,1155
