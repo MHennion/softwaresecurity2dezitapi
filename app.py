@@ -1,5 +1,5 @@
 from flask import Flask
-from flask import request
+from flask import request, redirect
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -9,13 +9,25 @@ from sklearn.ensemble import RandomForestRegressor
 import json
 import os
 from flask_httpauth import HTTPBasicAuth
+from secure import SecureHeaders
 
 app = Flask(__name__)
+secure_headers = SecureHeaders()
 auth = HTTPBasicAuth();
 
 USER_DATA = {
     os.getenv("API_WEBAPP_USERNAME"): os.getenv("API_WEBAPP_PASSWORD")
 }
+
+@app.before_request
+def redirect_http_requests():
+    if not request.url.startswith('https'):
+        return redirect(request.url.replace('http', 'https', 1))
+
+@app.after_request
+def set_secure_headers(response):
+    secure_headers.flask(response)
+    return response
 
 @auth.verify_password
 def verify(username, password):
@@ -290,9 +302,6 @@ def preditScore(x_toPredict):
     y_pred = clf.predict(x_toPredict)[0]
 
     return y_pred
-
-
-
 
 
 if __name__ == '__main__':

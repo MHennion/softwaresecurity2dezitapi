@@ -5,3 +5,4 @@ numpy
 sklearn
 openpyxl
 flask_httpauth
+secure==0.2.1
