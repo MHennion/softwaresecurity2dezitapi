@@ -8,16 +8,19 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestRegressor
 import json
 import os
+import secure
 from flask_httpauth import HTTPBasicAuth
-from secure import SecureHeaders
+#from secure import SecureHeaders
 
 app = Flask(__name__)
-secure_headers = SecureHeaders()
 auth = HTTPBasicAuth();
 
 USER_DATA = {
     os.getenv("API_WEBAPP_USERNAME"): os.getenv("API_WEBAPP_PASSWORD")
 }
+
+hsts_value = secure.StrictTransportSecurity().include_subdomains().preload().max_age(31536000)
+secure_headers = secure.Secure(hsts=hsts_value)
 
 @app.before_request
 def redirect_http_requests():
@@ -27,8 +30,8 @@ def redirect_http_requests():
 @app.after_request
 def set_secure_headers(response):
     if request.url.startswith('https'):
-        secure_headers.flask(response)
-    return response
+        secure_headers.preload.flask(response)
+        return response
 
 @auth.verify_password
 def verify(username, password):
