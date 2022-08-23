@@ -10,7 +10,6 @@ import json
 import os
 import secure
 from flask_httpauth import HTTPBasicAuth
-#from secure import SecureHeaders
 
 app = Flask(__name__)
 auth = HTTPBasicAuth();
