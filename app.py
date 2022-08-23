@@ -26,7 +26,6 @@ def redirect_http_requests():
     if not request.url.startswith('https'):
         return redirect(request.url.replace('http', 'https', 1))
 
-@app.middleware("https")
 @app.after_request
 def set_secure_headers(response):
     secure_headers.framework.flask(response)
