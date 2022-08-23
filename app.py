@@ -29,7 +29,7 @@ def redirect_http_requests():
 @app.after_request
 def set_secure_headers(response):
     if request.url.startswith('https'):
-        secure_headers.preload.flask(response)
+        secure_headers.framework.flask(response)
         return response
 
 @auth.verify_password
